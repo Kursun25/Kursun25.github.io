@@ -27,14 +27,14 @@ h1 {
 
 
         
-.project-grid {
-display: flex;
-justify-content: center;
-gap: 20pх;
-flex-wrap: wrap;
-}
-.card {
-border: 1px solid #ddd;
-padding: 20px;
-width: 30%;
-}
+    .project-grid {
+        display: flex;
+    justify-content: center;
+    gap: 20pх;
+    flex-wrap: wrap;
+    }
+    .card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 30%;
+    }
